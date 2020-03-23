@@ -1,0 +1,2 @@
+rootProject.name='Workchat'
+include ':app'
